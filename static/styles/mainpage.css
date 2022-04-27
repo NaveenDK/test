@@ -1,4 +1,4 @@
-h3{color:red}
+h3{color:rgb(255, 0, 106)}
  
 
 select#gender {
@@ -15,7 +15,7 @@ input[type="number"] {
   }
  
 input[type="submit"] {
-    background: #4d9148;
+    background: #894891;
     border: none;
     padding-left: 20px;
     padding-right: 20px;
